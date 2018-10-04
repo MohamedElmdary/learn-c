@@ -1,0 +1,4 @@
+students/*
+!students/README.MD
+main
+.vscode
